@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/mac/Documents/NetBeansProjects/HSpringHiber/web/WEB-INF/jsp/home.jsp</file>
+            <file>file:/C:/Users/mac/Documents/NetBeansProjects/HSpringHiber/src/java/model/Books.java</file>
+            <file>file:/C:/Users/mac/Documents/NetBeansProjects/HSpringHiber/web/WEB-INF/jsp/bookList.jsp</file>
+            <file>file:/C:/Users/mac/Documents/NetBeansProjects/HSpringHiber/src/java/controllers/BooksCongtroller.java</file>
+            <file>file:/C:/Users/mac/Documents/NetBeansProjects/HSpringHiber/src/java/Interfaces/BookDao.java</file>
+            <file>file:/C:/Users/mac/Documents/NetBeansProjects/HSpringHiber/src/java/InterfacesImplementation/BookDaoImpl.java</file>
+            <file>file:/C:/Users/mac/Documents/NetBeansProjects/HSpringHiber/src/java/Interfaces/BookService.java</file>
+            <file>file:/C:/Users/mac/Documents/NetBeansProjects/HSpringHiber/web/WEB-INF/jsp/includes/header.jsp</file>
+            <file>file:/C:/Users/mac/Documents/NetBeansProjects/HSpringHiber/src/java/InterfacesImplementation/BookServiceImp.java</file>
+            <file>file:/C:/Users/mac/Documents/NetBeansProjects/HSpringHiber/src/java/hibernate.cfg.xml</file>
+        </group>
+    </open-files>
+</project-private>
